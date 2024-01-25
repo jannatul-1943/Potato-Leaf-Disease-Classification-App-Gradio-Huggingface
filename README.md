@@ -8,11 +8,13 @@ We have used convolutional neural network (CNN) here. CNN is popular for image c
 
 ### How to guide
 
-clone the repository from: 
-download the required packages according to requirements.txt
-run app.py
+clone the repository from: git@github.com:jannatul-1943/Potato-Leaf-Disease-Classification-App-Gradio-Huggingface.git
 
-Also view the deployed app from the huggingface spaces: 
+download the required packages according to `requirements.txt`
+
+run `app.py`
+
+Also view the deployed app from the huggingface spaces: https://huggingface.co/spaces/mawamawa/Potato-Leaf-Disease-Classification
 
 
 ### License
